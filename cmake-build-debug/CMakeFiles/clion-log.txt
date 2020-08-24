@@ -1,4 +1,4 @@
-"G:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\project\c++_exercise
+"G:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\project\cppexercise
 -- The C compiler identification is GNU 4.8.1
 -- The CXX compiler identification is GNU 4.8.1
 -- Check for working C compiler: F:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc.exe
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: F:/project/c++_exercise/cmake-build-debug
+-- Build files have been written to: F:/project/cppexercise/cmake-build-debug

@@ -3,4 +3,4 @@ project(c___exercise)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(c___exercise main.cpp)
+add_executable(c___exercise main.cpp TextQuery.h QueryResult.h)
